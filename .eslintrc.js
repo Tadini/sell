@@ -21,6 +21,7 @@ module.exports = {
     // allow scema 
     'semi':['error','always'],
     // indent
-    'indent':0
+    'indent':0,
+    'space-before-function-paren': 0,
   }
 }
