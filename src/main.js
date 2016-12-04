@@ -31,4 +31,4 @@ router.map({
 
 // 开启路由
 router.start(app, '#app');
-router.go('/seller');
+router.go('/goods');
